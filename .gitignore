@@ -132,3 +132,5 @@ dmypy.json
 /.idea/modules.xml
 /.idea/1_Github.iml
 /.idea/.gitignore
+/Scripts/environment.yml
+/.idea/misc.xml
