@@ -9,5 +9,7 @@ temp = temp.replace("# ", "")
 temp = temp.replace("\t\t", "")
 # import the string into a panda data frame
 vh_asc = pd.read_csv(io.StringIO(temp), sep=',', dtype=str)
-vh_asc['date'] = pd.to_datetime(vh_asc['date'], format='%Y%m%d')
+vh_asc.insert(1,"time","17:30:00", True)
+vh_asc['d_t']=vh_asc['date']+" "+vh_asc['time']
+vh_asc['d_t'] = pd.to_datetime(vh_asc['d_t'], format='%Y%m%d %H:%M:%S')
 vh_asc
