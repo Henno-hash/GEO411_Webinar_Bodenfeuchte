@@ -10,12 +10,12 @@ Daten vom 08.06.2021:
 - Advanced_Questions          -> .ipynb                  -> Aufgabenstellungen für Expert*innen
 - Advanced_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Expert*innen
 - Advanced_SoilNet_Solutions  -> .ipynb                  -> Lösungs-Notebook für Expert*innen
-- Beginner_Questions          -> .ipynb                  -> Lösungs-Notebook für Expert*innen   
-- Beginner_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Expert*innen
-- Beginner_SoilNet_Solutions  -> .ipynb                  -> Intro-Notebook für Expert*innen 
+- Beginner_Questions          -> .ipynb                  -> Lösungs-Notebook für Anfänger*innen   
+- Beginner_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Anfänger*innen
+- Beginner_SoilNet_Solutions  -> .ipynb                  -> Intro-Notebook für Anfänger*innen 
 - Jupyter_Intro               -> .ipynb                  -> Allgemeines Intro-Notebook, Grundlagen von Jupyter Notebooks
 - README                      -> .md                     -> Markdown ReadMe für GitHub
 - environment                 -> .yml                    -> Enthält für die Notebooks relevante Packages, wird von Anaconda und Binder genutzt für das Environment
   
 Um die Bearbeitung ohne lokal installiertes Python & Anaconda zu gewährleisten kann folgender Binder-Link genutzt werden:
-https://mybinder.org/v2/gh/Henno-hash/GEO411_Webinar_Bodenfeuchte/f9522c67df6aef8c9709568d5c235c24ba736b52
+https://mybinder.org/v2/gh/Henno-hash/GEO411_Webinar_Bodenfeuchte/9b23bd7d27db795159917df07b109e3428bec7a0
