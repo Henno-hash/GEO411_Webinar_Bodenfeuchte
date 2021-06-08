@@ -10,9 +10,9 @@ Daten vom 08.06.2021:
 - Advanced_Questions          -> .ipynb                  -> Aufgabenstellungen für Expert*innen
 - Advanced_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Expert*innen
 - Advanced_SoilNet_Solutions  -> .ipynb                  -> Lösungs-Notebook für Expert*innen
-- Beginner_Questions          -> .ipynb                  -> Lösungs-Notebook für Expert*innen   
-- Beginner_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Expert*innen
-- Beginner_SoilNet_Solutions  -> .ipynb                  -> Intro-Notebook für Expert*innen 
+- Beginner_Questions          -> .ipynb                  -> Lösungs-Notebook für Anfänger*innen   
+- Beginner_SoilNet_Intro      -> .ipynb                  -> Intro-Notebook für Anfänger*innen
+- Beginner_SoilNet_Solutions  -> .ipynb                  -> Intro-Notebook für Anfänger*innen 
 - Jupyter_Intro               -> .ipynb                  -> Allgemeines Intro-Notebook, Grundlagen von Jupyter Notebooks
 - README                      -> .md                     -> Markdown ReadMe für GitHub
 - environment                 -> .yml                    -> Enthält für die Notebooks relevante Packages, wird von Anaconda und Binder genutzt für das Environment
