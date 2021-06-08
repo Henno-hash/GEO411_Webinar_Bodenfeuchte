@@ -18,4 +18,4 @@ Daten vom 08.06.2021:
 - environment                 -> .yml                    -> Enthält für die Notebooks relevante Packages, wird von Anaconda und Binder genutzt für das Environment
   
 Um die Bearbeitung ohne lokal installiertes Python & Anaconda zu gewährleisten kann folgender Binder-Link genutzt werden:
-https://mybinder.org/v2/gh/Henno-hash/GEO411_Webinar_Bodenfeuchte/9b23bd7d27db795159917df07b109e3428bec7a0
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Henno-hash/GEO411_Webinar_Bodenfeuchte/main)
