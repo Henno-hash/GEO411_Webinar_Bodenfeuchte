@@ -17,5 +17,5 @@ Daten vom 08.06.2021:
 - README                      -> .md                     -> Markdown ReadMe für GitHub
 - environment                 -> .yml                    -> Enthält für die Notebooks relevante Packages, wird von Anaconda und Binder genutzt für das Environment
   
-Um die Bearbeitung ohne lokal installiertes Python & Anaconda zu gewährleisten kann folgender Binder-Link genutzt werden:
+Um die Bearbeitung ohne lokal installiertes Python & Anaconda zu gewährleisten kann folgender Binder-Link genutzt werden:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Henno-hash/GEO411_Webinar_Bodenfeuchte/main)
